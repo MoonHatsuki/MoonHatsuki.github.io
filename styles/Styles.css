@@ -4,6 +4,10 @@
     display: grid;
     grid-template-columns: 25% 75%;
 }
+img{
+    border-radius: 50%;
+    size: 50px;
+}
 .esq{
     color: aqua;
 
