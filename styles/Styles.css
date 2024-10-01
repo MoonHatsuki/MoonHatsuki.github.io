@@ -1,0 +1,10 @@
+*{
+    background-color: #4f4f4f;
+    color: #d3d3d3;
+    display: grid;
+    grid-template-columns: 25% 75%;
+}
+img{
+    border-radius: 50%;
+    size: 30px;
+}
