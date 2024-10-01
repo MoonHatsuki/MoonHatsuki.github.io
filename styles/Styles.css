@@ -4,7 +4,8 @@
     display: grid;
     grid-template-columns: 25% 75%;
 }
-.header{
+.esq{
+    color: aqua;
 
       
     
